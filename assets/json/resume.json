@@ -57,8 +57,8 @@
       "studyType": "PhD",
       "startDate": "2019-09-01",
       "endDate": "2025-06-15",
-      # "score": "10",
-      # "courses": ["Theory of Relativity"]
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     },
     {
       "institution": "University of California, Berkeley",
@@ -68,8 +68,8 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2013-08-01",
       "endDate": "2017-05-01",
-      # "score": "10",
-      # "courses": ["Theory of Relativity"]
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
