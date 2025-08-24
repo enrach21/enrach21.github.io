@@ -1,116 +1,124 @@
-{
+ {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ian Rachmiel Jones",
+    "label": "Scientist/Bioinformatician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
+    "email": "irachmieljones@gmail.com",
+    "phone": "(360) 808-7116",
+    "url": "https://enrach21.github.io/al-folio/",
+    "summary": "I am a recent PhD. graduate with expertise in next generation sequencing, functional genomics, molecular biology, and bioinformatics. I am interested in applications at the intersection of genomics and drug discovery to advance human health.": {
+      "address": "1406 Lyon St.",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of California, San Francisco  ",
+      "position": "Graduate Student Researcher, Shen Lab",
+      "url": "https://shenlab.ucsf.edu/",
+      "startDate": "2019-09-01",
+      "endDate": "2025-07-01",
+      "summary": "I led three projects as a first author focused on understanding human brain development by utilizing 3D epigenomic annotation.",
+      "highlights": ["Leveraged genome-wide CRISPRi screens to identify thousands of cis-regulatory elements essential for iPSC fitness and cell survival during neuronal differentiation",
+                      "Optimized and assessed the quality of RNA-seq, ATAC-seq, and Hi-ChIP assays from 3rd trimester, neonatal, and adolescent human cortical samples that led to successful library preparation with less starting material",
+                      "Used support vector machine learning models to prioritize schizophrenia risk variants in human primary brain cells, and subsequently validated predicted enhancer function using mouse transgenic assays",
+                      "Mentored UC Berkeley undergraduate student thesis that prioritized GWAS variants with machine learning",
+                      "Collaborated with 5+ publications outside of thesis work"]
+
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  # "volunteer": [
+  #  {
+  #    "organization": "People's Climate March",
+  #    "location": "Zurich, Switzerland",
+  #     "position": "Lead Organizer",
+  #    "url": "https://example.com",
+  #    "startDate": "2014-04-01",
+  #    "endDate": "2015-07-01",
+  #     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  #     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  #  }
+  # ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, San Francisco",
+      "location": "San Francisco",
+      "url": "https://pspg.ucsf.edu/",
+      "area": "Pharmaceutical Sciences and Pharmacogenomics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-09-01",
+      "endDate": "2025-06-15",
+      # "score": "10",
+      # "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley",
+      "url": "https://mcb.berkeley.edu/",
+      "area": "Molecular Cellular Biology, Emphasis in Genetics",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2013-08-01",
+      "endDate": "2017-05-01",
+      # "score": "10",
+      # "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
+      "date": "2025-06-15",
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  # "certificates": [
+  #  {
+  #    "name": "Machine Learning",
+  #    "date": "2018-01-01",
+  #    "issuer": "Stanford University",
+  #    "url": "https://example.com",
+  #    "icon": "fa-solid fa-location-dot"
+  #  },
+  #  {
+  #    "name": "Quantum Computing",
+  #    "date": "2018-01-01",
+  #    "issuer": "Stanford University",
+  #    "url": "https://example.com",
+  #    "icon": "fa-solid fa-tag"
+  #  },
+  #  {
+  #    "name": "Quantum Information",
+  #    "date": "2018-01-01",
+  #    "issuer": "Stanford University",
+  #    "url": "https://example.com",
+  #    "icon": "fa-solid fa-envelope"
+  #  },
+  #  {
+  #    "name": "Quantum Cryptography",
+  #    "date": "2018-01-01",
+  #    "issuer": "Stanford University",
+  #    "url": "https://example.com",
+  #    "icon": "fa-solid fa-hashtag"
+  #  },
+  #  {
+  #    "name": "Quantum Communication",
+  #    "date": "2018-01-01",
+  #    "issuer": "Stanford University",
+  #    "url": "https://example.com",
+  #    "icon": "fa-solid fa-calendar"
+  #  },
+  #  {
+  #    "name": "Quantum Teleportation",
+  #    "date": "2018-01-01",
+  #    "issuer": "Stanford University",
+  #    "url": "https://example.com",
+  #    "icon": "fa-solid fa-clipboard-check"
+  #  }
+  # ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -136,65 +144,81 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Computational",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python (Pandas, NumPy)",
+        "Unix",
+        "R (DeSEQ2, SEURAT, GKM-SVM, MAGeCK)",
+        "Samtools",
+        "Next Generation Sequencing Analysis",
+        "High Performance Computing",
+        "AWS S3",
+        "Machine Learning",
+        "JupyterLab",
+        "CRISPR Screens",
+        "Github"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      {
+      "name": "Benchwork",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Library construction (RNA-seq, ATAC-seq, CUT&RUN/CUT&TAG, Hi-C/Hi-ChIP)",
+        "Reporter Assays",
+        "Lentiviral Transfection",
+        "Cell Culture",
+        "iPSC models",
+        "Next Generation Sequencing",
+        "PCR/qPCR",
+        "Molecular Cloning"
       ]
     }
   ],
-  "references": [
+  # "languages": [
+  #   {
+  #     "language": "English",
+  #     "fluency": "Native speaker",
+  #     "icon": ""
+  #   }
+  # ],
+#   "interests": [
+#     {
+#       "name": "Physics",
+#       "icon": "fa-solid fa-tag",
+#       "keywords": [
+#         "Quantum Mechanics",
+#         "Quantum Computing",
+#         "Quantum Information",
+#        "Quantum Cryptography",
+#        "Quantum Communication",
+#       "Quantum Teleportation"
+#      ]
+
+    
+  
+  # "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  #     "name": "Professor Yin Shen",
+      # "icon": "fa-solid fa-laptop",
+  #     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  #   },
+  #   {
+  #     "name": "Professor Nadav Ahituv",
+      # "icon": "fa-solid fa-thumbtack",
+  #     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  #   }
+  # ],
   "projects": [
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+       "startDate": "2018-01-01",
+       "endDate": "2018-01-01",
+       "url": "https://example.com"
+     }
+   ]
 }
