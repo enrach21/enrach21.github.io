@@ -6,8 +6,9 @@
     "image": "",
     "email": "irachmieljones@gmail.com",
     "phone": "(360) 808-7116",
-    "url": "https://enrach21.github.io/al-folio/",
-    "summary": "I am a recent PhD. graduate with expertise in next generation sequencing, functional genomics, molecular biology, and bioinformatics. I am interested in applications at the intersection of genomics and drug discovery to advance human health.": {
+    "url": "https://enrach21.github.io/",
+    "summary": "I am a recent PhD. graduate with expertise in next generation sequencing, functional genomics, molecular biology, and bioinformatics. I am interested in applications at the intersection of genomics and drug discovery to advance human health.", 
+    "location":{
       "address": "1406 Lyon St.",
       "postalCode": "CA 94115",
       "city": "San Francisco",
