@@ -14,4 +14,4 @@ stars: 3
 status: Finished
 ---
 
-Watching Solaris, I can completely understand how it regarded to heavily influence the science fiction genere. However, while the phycoligcal thriller impressively holds up with time, the slower narrative pace ultimately limited my enjoyment.
+Watching Solaris, I can completely understand how it is regarded to heavily influence the science fiction genere. However, while the phycoligcal thriller impressively holds up with time, the slower narrative pace ultimately limited my enjoyment.
