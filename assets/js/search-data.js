@@ -417,6 +417,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "movies-solaris-1972",
+          title: 'Solaris (1972)',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/solaris/";
             },},{id: "news-i-had-my-exit-talk-where-i-defended-my-thesis",
           title: 'I had my exit talk, where I defended my thesis.',
           description: "",
