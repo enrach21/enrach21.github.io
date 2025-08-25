@@ -2,96 +2,93 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ian R Jones
+    - name: Location
+      value: San Francisco, Ca
+    - name: email
+      value: irachmieljones@gmail.com
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Pharmaceutical Sciences and Pharmacogenomics
+      institution: University of California, San Francisco 
+      year: 2025
+    - title: Bachelor of Arts in Molecular Cellular Biology, Emphasis in Genetics 
+      institution: University of California, Berkeley
+      year: 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Researcher, <a href="https://shenlab.ucsf.edu/">Shen Lab]</a>
+      institution: University of California, San Francisco 
+      year: 2019-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Leveraged genome-wide CRISPRi screens to identify thousands of cis-regulatory elements essential for iPSC fitness and cell survival during neuronal differentiation
+        - Optimized and assessed the quality of RNA-seq, ATAC-seq, and Hi-ChIP assays from 3rd trimester, neonatal, and adolescent human cortical samples that led to successful library preparation with less starting material
+        - Used support vector machine learning models to prioritize schizophrenia risk variants in human primary brain cells, and subsequently validated predicted enhancer function using mouse transgenic assays
+        - Mentored UC Berkeley undergraduate student thesis that prioritized GWAS variants with machine learning
+        - Collaborated with 5+ publications outside of thesis work   
+
+    - title: R Bootcamp Instructor
+      institution: University of California, San Francisco 
+      year: 2020-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Led an introduction course on R programing language and biostatistics for incoming graduate students
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Teaching Assistant
+      institution: University of California, San Francisco
+      year: 2021
       description:
+        - Assisted with Systems Pharmacology course teaching computational modeling and quantitative data analysis
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Junior Specialist, <a href="https://shenlab.ucsf.edu/">Shen Lab]</a>
+      institution: University of California, San Francisco
+      year: 2017 - 2019
+      description:
+        - Generated and analyzed RNA-seq, ATAC-seq, Hi-C, PLAC-seq, and CUT&RUN libraries 
+        - Mentored local high school students through Lowell Student Research Program
 
-- title: Open Source Projects
+    - title: Lab Assistant, <a href="https://nature.berkeley.edu/matteolab/">Garbelotto Lab]</a>
+      institution: University of California, Berkeley
+      year: 2015 - 2017
+      description:
+        - Identified and genotyped Phytophthora and presented educational talks to local nurseries
+
+    - title: Lab Assistant, <a href="https://glasslab.berkeley.edu/nglass/">Glass Lab]</a>
+      institution: University of California, Berkeley
+      year: 2015 - 2017
+      description:
+        - Engineered regions of zinc binuclear cluster transcription factors required for cellulase secretion in N. crassa
+
+    - title: Science Undergraduate Laboratory Internship
+      institution: Pacific Northwest National Lab/DOE 
+      year: 2015
+      description:
+        - Optimized transformation of L. starkeyi and determined the promoter strength using the reporter GUS
+
+- title: Presentations
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://drive.google.com/file/d/1oxKE8BYmPYK1F1L6v95mZoSXNDc2eA4K/view">3D-epigenomic Characterization of Regulatory Elements, Neuropsychiatric Risk Variants, and Human Accelerated Regions in the Developing Human Cortex</a>
+      year: 2024
+      description: 4DN Annual Meeting
+
+    - title: <a href="https://docs.google.com/presentation/d/11JC6Y5swVnAFxa-NW3GrR2CTtddPWHmI/edit?slide=id.p1#slide=id.p1">Unveiling the role of epigenomic features on RNA splicing throughout neural development using machine learning</a>
+      year: 2024
+      description: 4DN Hackathon
+
+    - title: <a href="https://drive.google.com/file/d/1TiEOTJQv0zN0TfCLA5DSn4czkr6AtuLK/view">Functional Characterization of Gene Regulatory Elements and Neuropsychiatric Disease-Associated Risk Loci in iPSCs and iPSC-Derived Neurons</a>
+      year: 2023
+      description: 4DN Annual Meeting
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Honorable Mention in the National Science Foundation Graduate Research Fellowship Program
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
