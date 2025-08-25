@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-13
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I had my exit talk, where I defended my [thesis](https://escholarship.org/uc/item/90n4p8gq).
