@@ -407,7 +407,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-eyes-of-heisenberg",
+      },{id: "books-remarkably-bright-creatures",
+          title: 'Remarkably Bright Creatures',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/remarkably_bright_creatures/";
+            },},{id: "books-soul-catcher",
+          title: 'Soul Catcher',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/soul_catcher/";
+            },},{id: "books-the-eyes-of-heisenberg",
           title: 'The Eyes of Heisenberg',
           description: "",
           section: "Books",handler: () => {
