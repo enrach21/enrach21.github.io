@@ -144,6 +144,8 @@ newsletter:
 collections:
   books:
     output: true
+  movies:
+    output: true
   news:
     defaults:
       layout: post
