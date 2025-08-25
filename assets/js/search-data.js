@@ -412,11 +412,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_eyes_of_heisenberg/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "movies-solaris-1972",
           title: 'Solaris (1972)',
           description: "",
