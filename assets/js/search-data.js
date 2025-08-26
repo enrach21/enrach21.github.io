@@ -407,7 +407,37 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-remarkably-bright-creatures",
+      },{id: "books-a-confederacy-of-dunces",
+          title: 'A Confederacy of Dunces',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_confederacy_of_dunces/";
+            },},{id: "books-birthday-stories",
+          title: 'Birthday Stories',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/birthday_stories/";
+            },},{id: "books-cat-39-s-cradle",
+          title: 'Cat&amp;#39;s Cradle',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cat's_cradle/";
+            },},{id: "books-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage",
+          title: 'Colorless Tsukuru Tazaki and His Years of Pilgrimage',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/colorless_tsukuru_tazaki_and_his_years_of_pilgrimage/";
+            },},{id: "books-discovery",
+          title: 'Discovery',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/discovery/";
+            },},{id: "books-jurassic-park",
+          title: 'Jurassic Park',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/jurassic_park/";
+            },},{id: "books-remarkably-bright-creatures",
           title: 'Remarkably Bright Creatures',
           description: "",
           section: "Books",handler: () => {
@@ -417,11 +447,41 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/soul_catcher/";
+            },},{id: "books-sourcery",
+          title: 'Sourcery',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/sourcery/";
+            },},{id: "books-strange-houses",
+          title: 'Strange Houses',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/strange_houses/";
+            },},{id: "books-the-dispossessed",
+          title: 'The Dispossessed',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_dispossessed/";
             },},{id: "books-the-eyes-of-heisenberg",
           title: 'The Eyes of Heisenberg',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_eyes_of_heisenberg/";
+            },},{id: "books-the-grownup",
+          title: 'The Grownup',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_grownup/";
+            },},{id: "books-bthe-hitchhiker-39-s-guide-to-the-galaxy",
+          title: 'BThe Hitchhiker&amp;#39;s Guide to the Galaxy',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
+            },},{id: "books-three-bags-full",
+          title: 'Three Bags Full',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/three_bags_full/";
             },},{id: "movies-solaris-1972",
           title: 'Solaris (1972)',
           description: "",
