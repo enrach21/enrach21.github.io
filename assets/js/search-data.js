@@ -472,8 +472,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_grownup/";
-            },},{id: "books-bthe-hitchhiker-39-s-guide-to-the-galaxy",
-          title: 'BThe Hitchhiker&amp;#39;s Guide to the Galaxy',
+            },},{id: "books-the-hitchhiker-39-s-guide-to-the-galaxy",
+          title: 'The Hitchhiker&amp;#39;s Guide to the Galaxy',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
@@ -487,6 +487,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/solaris/";
+            },},{id: "movies-the-lives-of-others",
+          title: 'The Lives of Others',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_lives_of_others/";
             },},{id: "news-i-had-my-exit-talk-where-i-defended-my-thesis",
           title: 'I had my exit talk, where I defended my thesis.',
           description: "",
