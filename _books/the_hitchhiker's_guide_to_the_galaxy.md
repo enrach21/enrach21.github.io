@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: BThe Hitchhiker's Guide to the Galaxy
+title: The Hitchhiker's Guide to the Galaxy
 author: Douglas Adams
 cover: assets/img/book_covers/the_hitchhiker's_guide_to_the_galaxy.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
