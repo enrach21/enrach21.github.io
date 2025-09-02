@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: movie-review
 title: Grave of the Fireflies
 author: Isao Takahata
 cover: assets/img/movie_covers/grave_of_the_fireflies.jpg

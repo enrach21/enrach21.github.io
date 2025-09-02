@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: movie-review
 title: Solaris (1972)
 author: Andrei Tarkovsky
 cover: assets/img/movie_covers/solaris.jpg

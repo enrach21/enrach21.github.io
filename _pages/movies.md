@@ -1,5 +1,5 @@
 ---
-layout: book-shelf
+layout: cinema
 title: cinema
 permalink: /movies/
 nav: false

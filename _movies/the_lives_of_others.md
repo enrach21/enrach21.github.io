@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: movie-review
 title: The Lives of Others
 author: Florian Henckel von Donnersmarck
 cover: assets/img/movie_covers/the_lives_of_others.jpg
