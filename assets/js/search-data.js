@@ -482,6 +482,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_bags_full/";
+            },},{id: "movies-grave-of-the-fireflies",
+          title: 'Grave of the Fireflies',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/grave_of_the_fireflies/";
             },},{id: "movies-solaris-1972",
           title: 'Solaris (1972)',
           description: "",
