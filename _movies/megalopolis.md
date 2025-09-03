@@ -7,7 +7,7 @@ olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: science-fiction drama
 tags: Palace_of_Fine_Arts Coppola
-started:
+started: 2025-08-01
 finished: 2025-08-01
 released: 2024
 stars: 0.5

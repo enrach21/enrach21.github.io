@@ -7,7 +7,7 @@ olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: japanese drama
 tags: Home-Theater Hamaguchi
-started:
+started: 2025-08-31
 finished: 2025-08-31
 released: 2021
 stars: 3.5

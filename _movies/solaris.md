@@ -7,7 +7,7 @@ olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: russian science-fiction mystery drama
 tags: Home-Theater Tarkovsky
-started:
+started: 2025-08-23
 finished: 2025-08-23
 released: 1972
 stars: 3
