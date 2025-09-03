@@ -1,7 +1,7 @@
 ---
 layout: book-review
 title: The Sirens of Titan
-author: Kurt Vonnegut
+author: Vonnegut
 cover: assets/img/book_covers/the_sirens_of_titan.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
