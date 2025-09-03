@@ -427,6 +427,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/cat's_cradle/";
+            },},{id: "books-children-of-time",
+          title: 'Children of Time',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/children_of_time/";
             },},{id: "books-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage",
           title: 'Colorless Tsukuru Tazaki and His Years of Pilgrimage',
           description: "",
@@ -437,6 +442,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/discovery/";
+            },},{id: "books-foundryside",
+          title: 'Foundryside',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/foundryside/";
             },},{id: "books-jurassic-park",
           title: 'Jurassic Park',
           description: "",
@@ -492,6 +502,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
+            },},{id: "books-the-martian",
+          title: 'The Martian',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_martian/";
             },},{id: "books-the-shining",
           title: 'The Shining',
           description: "",
