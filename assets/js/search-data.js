@@ -412,6 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/a_confederacy_of_dunces/";
+            },},{id: "books-abundance",
+          title: 'Abundance',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/abundance/";
             },},{id: "books-birthday-stories",
           title: 'Birthday Stories',
           description: "",
@@ -462,6 +467,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_dispossessed/";
+            },},{id: "books-the-empusium",
+          title: 'The Empusium',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_empusium/";
             },},{id: "books-the-eyes-of-heisenberg",
           title: 'The Eyes of Heisenberg',
           description: "",
@@ -477,16 +487,41 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
+            },},{id: "books-the-wind-up-bird-chronicle",
+          title: 'The Wind-Up Bird Chronicle',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_wind-up_bird_chronicle/";
             },},{id: "books-three-bags-full",
           title: 'Three Bags Full',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_bags_full/";
+            },},{id: "books-wyrd-sisters",
+          title: 'Wyrd Sisters',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/wyrd_sisters/";
+            },},{id: "movies-drive-my-car",
+          title: 'Drive My Car',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/drive_my_car/";
             },},{id: "movies-grave-of-the-fireflies",
           title: 'Grave of the Fireflies',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/grave_of_the_fireflies/";
+            },},{id: "movies-megalopolis",
+          title: 'Megalopolis',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/megalopolis/";
+            },},{id: "movies-mulholland-drive",
+          title: 'Mulholland Drive',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/mulholland_drive/";
             },},{id: "movies-solaris-1972",
           title: 'Solaris (1972)',
           description: "",
