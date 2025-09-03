@@ -6,7 +6,7 @@ cover: assets/img/movie_covers/drive_my_car.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: japanese drama
-tags: Home-Theater
+tags: Home-Theater Hamaguchi
 started:
 finished: 2025-08-31
 released: 2021

@@ -6,7 +6,7 @@ cover: assets/img/movie_covers/the_lives_of_others.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: german drama thriller
-tags: Home-Theater
+tags: Home-Theater Donnersmarck
 started:
 finished: 2025-08-22
 released: 2006

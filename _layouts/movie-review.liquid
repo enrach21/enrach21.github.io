@@ -4,7 +4,6 @@ layout: default
 {% assign year = page.started | date: '%Y' %}
 {% assign tags = page.tags | join: '' %}
 {% assign categories = page.categories | join: '' %}
-{% assign author = page.author | join: '' %}
 
 {% if page._styles %}
   <!-- Page/Post style -->
@@ -78,8 +77,6 @@ layout: default
       </p>
     {% endif %}
     <p class="post-tags">
-       <a href="{{ author | prepend: '/movies/author' | relative_url }}"> <i class="fa-solid fa-circle-user fa-sm"></i> {{ author }}</a>
-        &nbsp;&middot;&nbsp;
       <a href="{{ year | prepend: '/movies/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</a>
       {% if tags != '' %}
         &nbsp;&middot;&nbsp;

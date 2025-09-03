@@ -6,7 +6,7 @@ cover: assets/img/book_covers/strange_houses.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction mystery thriller dark mysterious tense fast-paced
-tags: Owned
+tags: Owned Uketsu
 started: 2025-07-04
 finished: 2025-07-09
 released: 2021
