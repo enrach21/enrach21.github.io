@@ -532,6 +532,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/wyrd_sisters/";
+            },},{id: "movies-cloud-atlas",
+          title: 'Cloud Atlas',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/cloud_atlas/";
             },},{id: "movies-drive-my-car",
           title: 'Drive My Car',
           description: "",
@@ -542,16 +547,41 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/grave_of_the_fireflies/";
+            },},{id: "movies-hashtagchadgetstheaxe",
+          title: 'HashTagChadGetsTheAxe',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/hashtagchadgetstheaxe/";
             },},{id: "movies-megalopolis",
           title: 'Megalopolis',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/megalopolis/";
+            },},{id: "movies-men",
+          title: 'Men',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/men/";
             },},{id: "movies-mulholland-drive",
           title: 'Mulholland Drive',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/mulholland_drive/";
+            },},{id: "movies-night-is-short-walk-on-girl",
+          title: 'Night Is Short, Walk On Girl',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/night_is_short,_walk_on_girl/";
+            },},{id: "movies-possessor",
+          title: 'Possessor',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/possessor/";
+            },},{id: "movies-sansón-and-me",
+          title: 'Sansón and Me',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/sans%C3%B3n_and_me/";
             },},{id: "movies-solaris-1972",
           title: 'Solaris (1972)',
           description: "",
@@ -562,6 +592,21 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_lives_of_others/";
+            },},{id: "movies-the-lobster",
+          title: 'The Lobster',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_lobster/";
+            },},{id: "movies-the-phoenician-scheme",
+          title: 'The Phoenician Scheme',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_phoenician_scheme/";
+            },},{id: "movies-the-secret-art-of-human-flight",
+          title: 'The Secret Art of Human Flight',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_secret_art_of_human_flight/";
             },},{id: "news-i-had-my-exit-talk-where-i-defended-my-thesis",
           title: 'I had my exit talk, where I defended my thesis.',
           description: "",
