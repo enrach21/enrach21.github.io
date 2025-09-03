@@ -492,6 +492,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
+            },},{id: "books-the-shining",
+          title: 'The Shining',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_shining/";
+            },},{id: "books-the-sirens-of-titan",
+          title: 'The Sirens of Titan',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_sirens_of_titan/";
             },},{id: "books-the-wind-up-bird-chronicle",
           title: 'The Wind-Up Bird Chronicle',
           description: "",
