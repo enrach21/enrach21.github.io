@@ -5,7 +5,7 @@ author: Andrei Tarkovsky
 cover: assets/img/movie_covers/solaris.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: russian science-fiction
+categories: russian science-fiction mystery drama
 tags: Home-Theater
 started:
 finished: 2025-08-23

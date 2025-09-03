@@ -5,10 +5,10 @@ author: Isao Takahata
 cover: assets/img/movie_covers/grave_of_the_fireflies.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: animation war drama
+categories: japanese animation war drama
 tags: Home-Theater
 started:
-finished: 2025-08-30
+finished: 2025-08-29
 released: 1988
 stars: 5
 status: Finished

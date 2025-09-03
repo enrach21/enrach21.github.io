@@ -10,4 +10,4 @@ collection: movies
 >
 > -- Princess Mononoke
 
-## Movies that I am reading, have read, or will read
+## Movies that I am watched
