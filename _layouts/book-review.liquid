@@ -78,7 +78,7 @@ layout: default
       </p>
     {% endif %}
     <p class="post-tags">
-      <a href="{{ author | prepend: '/books/author' | relative_url }}"> <i class="fa-solid fa-circle-user fa-sm"></i> {{ author }}</a>
+      <a href="{{ author | prepend: '/books/' | relative_url }}"> <i class="fa-solid fa-circle-user fa-sm"></i> {{ author }}</a>
         &nbsp;&middot;&nbsp;
       <a href="{{ year | prepend: '/books/' | relative_url }}"> <i class="fa-solid fa-calendar fa-sm"></i> {{ year }}</a>
       {% if tags != '' %}
