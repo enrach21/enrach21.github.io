@@ -10,7 +10,10 @@ layout: page
       {% assign current_year = item.date | date: '%Y' %}
       {% if current_year != year %}
         {% unless forloop.first %}
-          </ul>
+         <h1 id="y{{year}}">
+         	<a href="{{ current_year | prepend: '/books/' | relative_url }}">{{year}}</a>
+       		</h1>
+       	 <ul>
         {% endunless %}
         <h1 id="y{{item.date | date: "%Y"}}">
           <a href="{{ current_year | prepend: '/books/' | relative_url }}">{{ current_year }}</a>
