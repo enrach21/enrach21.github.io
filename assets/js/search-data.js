@@ -542,6 +542,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/drive_my_car/";
+            },},{id: "movies-forbidden-planet",
+          title: 'Forbidden Planet',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/forbidden_planet/";
             },},{id: "movies-grave-of-the-fireflies",
           title: 'Grave of the Fireflies',
           description: "",
@@ -587,6 +592,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/solaris/";
+            },},{id: "movies-stalker",
+          title: 'Stalker',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/stalker/";
             },},{id: "movies-the-lives-of-others",
           title: 'The Lives of Others',
           description: "",
