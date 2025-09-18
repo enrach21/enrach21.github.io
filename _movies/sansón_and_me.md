@@ -6,7 +6,7 @@ cover: assets/img/movie_covers/sansón_and_me.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: documentary
-tags: Roxie Reyes
+tags: Roxie Reyes 2023
 started: 2023-03-17
 finished: 2023-03-17
 released: 2023

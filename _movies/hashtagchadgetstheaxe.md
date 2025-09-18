@@ -6,7 +6,7 @@ cover: assets/img/movie_covers/hashtagchadgetstheaxe.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: horror comedy
-tags: Home-Theater Bible
+tags: Home-Theater Bible 2025
 started: 2025-06-21
 finished: 2025-06-21
 released: 2022

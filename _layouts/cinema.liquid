@@ -7,14 +7,6 @@ layout: page
   {% assign collection = site[page.collection] %}
   {% if collection and collection.size > 0 %}
     {% for item in collection %}
-      {% assign year = item.started | date: '%Y' %}
-      {% assign current_year = item.date | date: '%Y' %}
-      {% if current_year != year %}
-        {% unless forloop.first %}
-       	 <ul>
-        {% endunless %}
-        <ul>
-      {% endif %}
 
       <figure class="cover">
         <a class="cover-link" href="{{ item.url | relative_url }}">

@@ -6,7 +6,7 @@ cover: assets/img/movie_covers/possessor.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: horror thriller science-fiction
-tags: Home-Theater Cronenberg
+tags: Home-Theater Cronenberg 2025
 started: 2025-04-05
 finished: 2025-04-05
 released: 2020
