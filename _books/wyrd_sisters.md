@@ -8,8 +8,8 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction fantasy adventurous funny lighthearted medium-paced
 tags: Owned Pratchett
 started: 2025-08-23
-finished:
+finished: 2025-08-27
 released: 1988
-stars:
-status: Reading
+stars: 3.75
+status: Finished
 ---

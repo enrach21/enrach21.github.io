@@ -8,8 +8,8 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: nonfiction economics politics sociology informative fast-paced
 tags: Library Klein Thompson
 started: 2025-07-25
-finished:
+finished: 2025-09-16
 released: 2025
-stars:
-status: Reading
+stars: 4
+status: Finished
 ---

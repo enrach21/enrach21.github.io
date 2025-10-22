@@ -8,8 +8,8 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction contemporary literay magical-reaslism dark mysterious reflective slow-paced
 tags: Owned Murakami
 started: 2025-07-01
-finished:
+finished: 2025-09-13
 released: 1994
-stars:
-status: Reading
+stars: 4
+status: Finished
 ---
