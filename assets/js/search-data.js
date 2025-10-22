@@ -422,6 +422,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/birthday_stories/";
+            },},{id: "books-black-beauty",
+          title: 'Black Beauty',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/black_beauty/";
             },},{id: "books-cat-39-s-cradle",
           title: 'Cat&amp;#39;s Cradle',
           description: "",
@@ -477,6 +482,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/strange_houses/";
+            },},{id: "books-the-currents-of-space",
+          title: 'The Currents of Space',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_currents_of_space/";
             },},{id: "books-the-dispossessed",
           title: 'The Dispossessed',
           description: "",
@@ -619,6 +629,9 @@ ninja.data = [{
               window.location.href = "/movies/the_secret_art_of_human_flight/";
             },},{id: "news-i-had-my-exit-talk-where-i-defended-my-thesis",
           title: 'I had my exit talk, where I defended my thesis.',
+          description: "",
+          section: "News",},{id: "news-i-am-excited-to-announce-that-i-will-be-joining-the-wang-lab-as-a-postdoc",
+          title: 'I am excited to announce that I will be joining the Wang Lab...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

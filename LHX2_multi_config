@@ -1,0 +1,29 @@
+[gene-expression]
+reference,/mnt/nfs/shen/shenlabstore3/ijones1/dependencies/CellRanger/transcriptome/refdata-gex-GRCh38-2020-A
+create-bam,false
+
+[libraries]
+fastq_id,fastqs,feature_types,
+LHX2_Batch1,/mnt/nfs/shen/shenlabstore3/ijones1/LHX2_scRNA/fastq,Gene Expression
+LHX2_Batch2,/mnt/nfs/shen/shenlabstore3/ijones1/LHX2_scRNA/fastq,Gene Expression
+LHX2_Batch3,/mnt/nfs/shen/shenlabstore3/ijones1/LHX2_scRNA/fastq,Gene Expression
+LHX2_Batch4,/mnt/nfs/shen/shenlabstore3/ijones1/LHX2_scRNA/fastq,Gene Expression
+
+[samples]
+sample_id,ocm_barcode_ids
+Ctrl_1,OB1
+sh4_1,OB2
+sh7_1,OB3
+OE_1,OB4
+Ctrl_2,OB1
+sh4_2,OB2
+sh7_2,OB3
+OE_2,OB4
+Ctrl_3,OB1
+sh4_3,OB2
+sh7_3,OB3
+OE_3,OB4
+Ctrl_4,OB1
+sh4_4,OB2
+sh7_4,OB3
+OE_4,OB4
