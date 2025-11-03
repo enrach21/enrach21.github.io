@@ -6,7 +6,7 @@ cover: assets/img/book_covers/The_eyes_of_heisenbery.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 0425018652 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction science-fiction adventurous challenging reflective medium-paced
-tags: Owned Herbert
+tags: Owned Herbert 2025
 started: 2025-08-09
 finished: 2025-08-21
 released: 1966

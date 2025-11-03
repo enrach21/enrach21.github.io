@@ -6,7 +6,7 @@ subtitle: Scientist | Bioinformatician | PhD, UCSF
 
 profile:
   align: right
-  image: prof_photo.jpg
+  image: 5N0A1614.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 

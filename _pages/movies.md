@@ -14,4 +14,4 @@ collection: movies
 
 > You can also follow me on [Letterboxd](https://boxd.it/c16sB).
 
-## Movies that I am watched
+## Movies that I have watched

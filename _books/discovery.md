@@ -6,7 +6,7 @@ cover: assets/img/book_covers/discovery.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction fantasy horror science-fiction adventurous dark mysterious medium-paced
-tags: Owned Minton
+tags: Owned Minton 2025
 started: 2025-06-27
 finished: 2025-07-23
 released: 2025

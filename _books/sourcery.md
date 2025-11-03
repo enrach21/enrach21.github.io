@@ -6,7 +6,7 @@ cover: assets/img/book_covers/sourcery.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction fantasy adventurous funny lighthearted medium-paced
-tags: Owned Pratchett
+tags: Owned Pratchett 2025
 started: 2025-06-20
 finished: 2025-06-24
 released: 1988
