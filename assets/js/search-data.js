@@ -427,6 +427,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/black_beauty/";
+            },},{id: "books-carmilla",
+          title: 'Carmilla',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/carmilla/";
+            },},{id: "books-carrie",
+          title: 'Carrie',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/carrie/";
             },},{id: "books-cat-39-s-cradle",
           title: 'Cat&amp;#39;s Cradle',
           description: "",
@@ -442,6 +452,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/colorless_tsukuru_tazaki_and_his_years_of_pilgrimage/";
+            },},{id: "books-deadeye-dick",
+          title: 'Deadeye Dick',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/deadeye_dick/";
             },},{id: "books-discovery",
           title: 'Discovery',
           description: "",
@@ -452,6 +467,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/foundryside/";
+            },},{id: "books-house-of-leaves",
+          title: 'House of Leaves',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/house_of_leaves/";
             },},{id: "books-jurassic-park",
           title: 'Jurassic Park',
           description: "",
@@ -467,6 +487,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/saturation_point/";
+            },},{id: "books-so-late-in-the-day",
+          title: 'So Late in the Day',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/so_late_in_the_day/";
             },},{id: "books-soul-catcher",
           title: 'Soul Catcher',
           description: "",
@@ -507,6 +532,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_grownup/";
+            },},{id: "books-the-halloween-tree",
+          title: 'The Halloween Tree',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_halloween_tree/";
             },},{id: "books-the-hitchhiker-39-s-guide-to-the-galaxy",
           title: 'The Hitchhiker&amp;#39;s Guide to the Galaxy',
           description: "",
@@ -547,6 +577,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/cloud_atlas/";
+            },},{id: "movies-donnie-darko",
+          title: 'Donnie Darko',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/donnie_darko/";
             },},{id: "movies-drive-my-car",
           title: 'Drive My Car',
           description: "",
@@ -567,6 +602,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/hashtagchadgetstheaxe/";
+            },},{id: "movies-invasion-of-the-body-snatchers",
+          title: 'Invasion of the Body Snatchers',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/invasion_of_the_body_snatchers/";
             },},{id: "movies-megalopolis",
           title: 'Megalopolis',
           description: "",
@@ -587,6 +627,16 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/night_is_short,_walk_on_girl/";
+            },},{id: "movies-paprika",
+          title: 'Paprika',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/paprika/";
+            },},{id: "movies-perfect-blue",
+          title: 'Perfect Blue',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/perfect_blue/";
             },},{id: "movies-possessor",
           title: 'Possessor',
           description: "",
@@ -607,6 +657,16 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/stalker/";
+            },},{id: "movies-the-exorcist",
+          title: 'The Exorcist',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_exorcist/";
+            },},{id: "movies-the-favourite",
+          title: 'The Favourite',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_favourite/";
             },},{id: "movies-the-lives-of-others",
           title: 'The Lives of Others',
           description: "",
@@ -622,11 +682,21 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_phoenician_scheme/";
+            },},{id: "movies-the-rocky-horror-picture-show",
+          title: 'The Rocky Horror Picture Show',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_rocky_horror_picture_show/";
             },},{id: "movies-the-secret-art-of-human-flight",
           title: 'The Secret Art of Human Flight',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_secret_art_of_human_flight/";
+            },},{id: "movies-the-witch",
+          title: 'The Witch',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_witch/";
             },},{id: "news-i-had-my-exit-talk-where-i-defended-my-thesis",
           title: 'I had my exit talk, where I defended my thesis.',
           description: "",
