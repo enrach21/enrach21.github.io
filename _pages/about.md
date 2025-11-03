@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Scientist | Bioinformatician | PhD, UCSF
+subtitle: Postdoc | Scientist | Bioinformatician | PhD
 
 profile:
   align: right
