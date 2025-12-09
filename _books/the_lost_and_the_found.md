@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Abundance
+title: The Lost and the Found
 author: Kevin Fagan
 cover: assets/img/book_covers/the_lost_and_the_found.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
