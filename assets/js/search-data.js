@@ -412,6 +412,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/a_confederacy_of_dunces/";
+            },},{id: "books-a-drop-of-corruption",
+          title: 'A Drop of Corruption',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/a_drop_of_corruption/";
             },},{id: "books-abundance",
           title: 'Abundance',
           description: "",
@@ -427,6 +432,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/black_beauty/";
+            },},{id: "books-butter",
+          title: 'Butter',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/butter/";
             },},{id: "books-carmilla",
           title: 'Carmilla',
           description: "",
@@ -447,6 +457,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/children_of_time/";
+            },},{id: "books-cloud-atlas",
+          title: 'Cloud Atlas',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cloud_atlas/";
             },},{id: "books-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage",
           title: 'Colorless Tsukuru Tazaki and His Years of Pilgrimage',
           description: "",
@@ -462,6 +477,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/discovery/";
+            },},{id: "books-drive",
+          title: 'Drive',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/drive/";
             },},{id: "books-foundryside",
           title: 'Foundryside',
           description: "",
@@ -472,11 +492,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/house_of_leaves/";
+            },},{id: "books-i-want-to-die-but-i-want-to-eat-tteokbokki",
+          title: 'I Want to Die but I Want to Eat Tteokbokki',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/i_want_to_die_but_i_want_to_eat_tteokbokki/";
             },},{id: "books-jurassic-park",
           title: 'Jurassic Park',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/jurassic_park/";
+            },},{id: "books-mother-night",
+          title: 'Mother Night',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mother_night/";
             },},{id: "books-remarkably-bright-creatures",
           title: 'Remarkably Bright Creatures',
           description: "",
@@ -487,6 +517,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/saturation_point/";
+            },},{id: "books-slaughterhouse-five",
+          title: 'Slaughterhouse-Five',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/slaughterhouse_five/";
             },},{id: "books-so-late-in-the-day",
           title: 'So Late in the Day',
           description: "",
@@ -507,6 +542,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/strange_houses/";
+            },},{id: "books-talking-to-strangers",
+          title: 'Talking to Strangers',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/talking_to_strangers/";
+            },},{id: "books-the-cat-who-saved-the-library",
+          title: 'The Cat Who Saved the Library',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_cat_who_saved_the_library/";
             },},{id: "books-the-currents-of-space",
           title: 'The Currents of Space',
           description: "",
@@ -542,6 +587,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
+            },},{id: "books-abundance",
+          title: 'Abundance',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_lost_and_the_found/";
             },},{id: "books-the-martian",
           title: 'The Martian',
           description: "",
@@ -557,6 +607,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_sirens_of_titan/";
+            },},{id: "books-the-strength-of-the-few",
+          title: 'The Strength of the Few',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_strength_of_the_few/";
             },},{id: "books-the-wind-up-bird-chronicle",
           title: 'The Wind-Up Bird Chronicle',
           description: "",
@@ -567,6 +622,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_bags_full/";
+            },},{id: "books-vanishing-world",
+          title: 'Vanishing World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/vanishing_world/";
+            },},{id: "books-war-with-the-newts",
+          title: 'War with the Newts',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/war_with_the_newts/";
             },},{id: "books-wyrd-sisters",
           title: 'Wyrd Sisters',
           description: "",
