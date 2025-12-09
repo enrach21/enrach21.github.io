@@ -2,7 +2,7 @@
 layout: book-review
 title: Butter
 author: Asako Yuzuki
-cover: assets/img/book_covers/buttter.jpg
+cover: assets/img/book_covers/butter.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction contemporary crime literary dark mysterious reflective slow-paced
