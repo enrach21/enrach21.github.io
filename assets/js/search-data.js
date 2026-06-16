@@ -642,6 +642,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/cloud_atlas/";
+            },},{id: "movies-decorado",
+          title: 'Decorado',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/decorado/";
             },},{id: "movies-donnie-darko",
           title: 'Donnie Darko',
           description: "",
@@ -737,6 +742,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_favourite/";
+            },},{id: "movies-the-last-picture-show",
+          title: 'The Last Picture Show',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_last_picture_show/";
             },},{id: "movies-the-lives-of-others",
           title: 'The Lives of Others',
           description: "",
@@ -752,6 +762,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_phoenician_scheme/";
+            },},{id: "movies-the-puffy-chair",
+          title: 'The Puffy Chair',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_puffy_chair/";
             },},{id: "movies-the-rocky-horror-picture-show",
           title: 'The Rocky Horror Picture Show',
           description: "",
