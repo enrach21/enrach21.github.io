@@ -692,6 +692,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/night_is_short,_walk_on_girl/";
+            },},{id: "movies-obsession",
+          title: 'Obsession',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/obsession/";
             },},{id: "movies-paprika",
           title: 'Paprika',
           description: "",
