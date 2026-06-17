@@ -532,6 +532,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mother_night/";
+            },},{id: "books-pyramids",
+          title: 'Pyramids',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/pyramids/";
             },},{id: "books-remarkably-bright-creatures",
           title: 'Remarkably Bright Creatures',
           description: "",
@@ -617,6 +622,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_hitchhiker's_guide_to_the_galaxy/";
+            },},{id: "books-the-left-hand-of-darkness",
+          title: 'The Left Hand of Darkness',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_left_hand_of_darkness/";
             },},{id: "books-the-lost-and-the-found",
           title: 'The Lost and the Found',
           description: "",
