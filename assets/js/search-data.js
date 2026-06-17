@@ -422,6 +422,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/abundance/";
+            },},{id: "books-and-put-away-childish-things",
+          title: 'And Put Away Childish Things',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/and_put_away_childish_things/";
             },},{id: "books-birthday-stories",
           title: 'Birthday Stories',
           description: "",
@@ -482,6 +487,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/drive/";
+            },},{id: "books-dungoen-crawler-carl",
+          title: 'Dungoen Crawler Carl',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/dungeon_crawler_carl/";
+            },},{id: "books-foster",
+          title: 'Foster',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/foster/";
             },},{id: "books-foundryside",
           title: 'Foundryside',
           description: "",
@@ -502,6 +517,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/jurassic_park/";
+            },},{id: "books-katabasis",
+          title: 'Katabasis',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/katabasis/";
+            },},{id: "books-lost-souls-meet-under-a-full-moon",
+          title: 'Lost Souls Meet Under a Full Moon',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/lost_souls_meet_under_a_full_moon/";
             },},{id: "books-mother-night",
           title: 'Mother Night',
           description: "",
@@ -572,6 +597,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_eyes_of_heisenberg/";
+            },},{id: "books-the-forester-39-s-daughter",
+          title: 'The Forester&amp;#39;s Daughter',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_forester's_daughter/";
             },},{id: "books-the-grownup",
           title: 'The Grownup',
           description: "",
@@ -612,16 +642,31 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_strength_of_the_few/";
+            },},{id: "books-the-vegetarian",
+          title: 'The Vegetarian',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_vegetarian/";
             },},{id: "books-the-wind-up-bird-chronicle",
           title: 'The Wind-Up Bird Chronicle',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_wind-up_bird_chronicle/";
+            },},{id: "books-this-is-how-you-lose-the-time-war",
+          title: 'This Is How You Lose the Time War',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/this_is_how_you_lose_the_time_war/";
             },},{id: "books-three-bags-full",
           title: 'Three Bags Full',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/three_bags_full/";
+            },},{id: "books-tomorrow-and-tomorrow-and-tomorrow",
+          title: 'Tomorrow, and Tomorrow, and Tomorrow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/tomorrow_and_tomorrow_and_tomorrow/";
             },},{id: "books-vanishing-world",
           title: 'Vanishing World',
           description: "",
@@ -632,6 +677,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/war_with_the_newts/";
+            },},{id: "books-we-do-not-part",
+          title: 'We Do Not Part',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/we_do_not_part/";
             },},{id: "books-wyrd-sisters",
           title: 'Wyrd Sisters',
           description: "",
