@@ -8,8 +8,8 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction classics science-fiction dark funny reflective medium-paced
 tags: Owned Čapek 2025
 started: 2025-11-18
-finished:
+finished: 2026-01-03
 released: 1936
-stars:
-status: Reading
+stars: 3.75
+status: Finished
 ---

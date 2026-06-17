@@ -8,8 +8,8 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction fantasy adventurous dark tense medium-paced
 tags: Owned Islington 2025
 started: 2025-11-08
-finished:
+finished: 2025-12-25
 released: 2025
-stars:
-status: Reading
+stars: 3
+status: Finished
 ---
