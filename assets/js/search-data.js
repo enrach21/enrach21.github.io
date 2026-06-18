@@ -507,6 +507,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/house_of_leaves/";
+            },},{id: "books-hunchback",
+          title: 'Hunchback',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hunchback/";
             },},{id: "books-i-want-to-die-but-i-want-to-eat-tteokbokki",
           title: 'I Want to Die but I Want to Eat Tteokbokki',
           description: "",
@@ -697,6 +702,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/wyrd_sisters/";
+            },},{id: "movies-angel-s-egg",
+          title: 'Angel’s Egg',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/angel%E2%80%99s_egg/";
             },},{id: "movies-cloud-atlas",
           title: 'Cloud Atlas',
           description: "",
@@ -747,6 +757,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/men/";
+            },},{id: "movies-millennium-actress",
+          title: 'Millennium Actress',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/millennium_actress/";
             },},{id: "movies-mulholland-drive",
           title: 'Mulholland Drive',
           description: "",
@@ -837,11 +852,26 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_secret_art_of_human_flight/";
+            },},{id: "movies-the-thing",
+          title: 'The Thing',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_thing/";
+            },},{id: "movies-the-wicker-man",
+          title: 'The Wicker Man',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/the_wicker_man/";
             },},{id: "movies-the-witch",
           title: 'The Witch',
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/the_witch/";
+            },},{id: "movies-werewolves-within",
+          title: 'Werewolves Within',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/werewolves_within/";
             },},{id: "news-i-had-my-exit-talk-where-i-defended-my-thesis",
           title: 'I had my exit talk, where I defended my thesis.',
           description: "",
