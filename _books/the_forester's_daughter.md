@@ -2,7 +2,7 @@
 layout: book-review
 title: The Forester's Daughter
 author: Claire Keegan
-cover: assets/img/book_covers/the_forester's_daughter.jpg
+cover: assets/img/book_covers/the_forester's_daughter.jpeg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: fiction short-stories emotional reflective sad fast-paced
