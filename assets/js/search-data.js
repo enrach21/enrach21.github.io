@@ -707,6 +707,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/angel%E2%80%99s_egg/";
+            },},{id: "movies-backrooms",
+          title: 'Backrooms',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/backrooms/";
             },},{id: "movies-cloud-atlas",
           title: 'Cloud Atlas',
           description: "",
@@ -792,6 +797,11 @@ ninja.data = [{
           description: "",
           section: "Movies",handler: () => {
               window.location.href = "/movies/possessor/";
+            },},{id: "movies-rose-of-nevada",
+          title: 'Rose of Nevada',
+          description: "",
+          section: "Movies",handler: () => {
+              window.location.href = "/movies/rose_of_nevada/";
             },},{id: "movies-sansón-and-me",
           title: 'Sansón and Me',
           description: "",
